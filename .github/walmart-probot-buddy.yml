@@ -1,0 +1,5 @@
+enabled_features:
+#  - stalebot
+  - "names, e.g.:"
+  - semantic-pull-requests
+  - bot-pr-merge
