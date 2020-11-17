@@ -1,0 +1,11 @@
+{
+  "name": "probot-robot-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericbiewener/probot-robot-testing",
+  "author": "Eric Biewener <ebiewener@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
