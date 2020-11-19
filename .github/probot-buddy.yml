@@ -1,3 +1,4 @@
 features:
-  - autolabel
-  - stalemaybe
+  - bot-pr-merge
+  - semantic-pull-requests
+  - merge-queue
