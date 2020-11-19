@@ -4,8 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/ericbiewener/probot-robot-testing",
   "author": "Eric Biewener <ebiewener@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "test": "node test.js"
-  }
+  "license": "MIT"
 }
