@@ -1,0 +1,7 @@
+# https://gecgithub01.walmart.com/mobile-platform/github-app-monolith
+# https://github.com/zeke/semantic-pull-requests#configuration
+titleOnly: true
+scopes:
+  - foo
+  - bar
+allowEmptyScope: true
