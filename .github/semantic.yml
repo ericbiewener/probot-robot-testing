@@ -4,4 +4,4 @@ titleOnly: true
 scopes:
   - foo
   - bar
-allowEmptyScope: true
+allowEmptyScope: false
