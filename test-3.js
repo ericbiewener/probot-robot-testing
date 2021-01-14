@@ -1,5 +1,5 @@
-const DELAY = 0
+const DELAY_MIN = 0
 
 setTimeout(() => {
   process.exit(0)
-}, DELAY)
+}, DELAY_MIN * 60 * 1000)
