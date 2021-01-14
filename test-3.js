@@ -1,4 +1,4 @@
-const DELAY_MIN = 0
+const DELAY_MIN = 3
 
 setTimeout(() => {
   process.exit(1)
