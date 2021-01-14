@@ -1,3 +1,3 @@
 setTimeout(() => {
-  process.exit(1)
+  process.exit(0)
 }, 15 * 60 * 1000)
