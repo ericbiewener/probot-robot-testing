@@ -1,4 +1,4 @@
-const DELAY = 5 * 60 * 1000
+const DELAY = 0
 
 setTimeout(() => {
   process.exit(0)
