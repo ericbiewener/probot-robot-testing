@@ -3,4 +3,4 @@ enabled_features:
   - "names, e.g.:"
   - semantic-pull-requests
   - bot-pr-merge
-  - merge-queue
+  - sequential
