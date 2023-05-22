@@ -1,5 +1,4 @@
-const DELAY_MIN = 0
-// make diff
+const DELAY_MIN = 1000
 
 setTimeout(() => {
   process.exit(0)
