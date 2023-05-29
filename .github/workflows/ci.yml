@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: yarn test
 
-name: seq-merge
+name: mergebot
 on: [push]
 jobs:
   test:
