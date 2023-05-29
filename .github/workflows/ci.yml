@@ -6,3 +6,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: yarn test
+
+name: seq-merge
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn test
