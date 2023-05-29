@@ -1,6 +1,7 @@
 const { GITHUB_HEAD_REF = "" } = process.env;
 
 if (GITHUB_HEAD_REF.startsWith("_seq-merge/")) {
+  console.log('SEQUENTIAL MERGE CHECK')
   const DELAY_MIN = 5;
 
   setTimeout(() => {
