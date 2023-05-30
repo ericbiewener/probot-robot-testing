@@ -4,3 +4,4 @@ enabled_features:
   - semantic-pull-requests
   - bot-pr-merge
   - sequential-merge-queue
+  - pr-template-validator
