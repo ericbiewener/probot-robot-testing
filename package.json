@@ -6,7 +6,6 @@
   "author": "Eric Biewener <ebiewener@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "ci": "node ci/ci.js",
-    "ci:seq-merge": "node ci/ci-seq-merge.js"
+    "ci": "node ci/ci.js"
   }
 }
