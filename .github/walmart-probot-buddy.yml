@@ -1,2 +1,4 @@
-sequential-merge:
-  - 
+sequential_merge:
+  - required_ci_checks_for_sequential_merge_branch:
+    - foo
+    - bar
