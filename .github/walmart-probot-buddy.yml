@@ -1,4 +1,2 @@
-enabled_features:
-#  - stalebot
-  - semantic-pull-requests
-  - sequential-merge
+sequential-merge:
+  - 
