@@ -1,4 +1,4 @@
 sequential_merge:
-  required_ci_checks_for_sequential_merge_branch:
-    - foo
-    - bar
+  required_status_checks_for_sequential_merge_branch:
+    - Status Check 1
+    - Status Check 2
