@@ -1,4 +1,2 @@
-sequential_merge:
-  required_status_checks_for_trial:
-    - Status Check 1
-    - Status Check 2
+enabled_features:
+  - sequential_merge
